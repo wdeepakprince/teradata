@@ -1,0 +1,2 @@
+# teradata
+TeradataSQL Python Files
